@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import { SearchBar } from '../components/SearchBar'
-import { TrendingTopics } from '../components/TrendingTopics'
 import { WhoToFollow } from '../components/WhoToFollow'
 import { TweetCard } from '../components/TweetCard'
 import { useTweetStore } from '../store/useTweetStore'
